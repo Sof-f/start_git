@@ -8,3 +8,14 @@ body{
 .img_git{
     width: 40%;
 }
+
+.base{
+    font-family: "Edu AU VIC WA NT Guides", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.arrow{
+
+}
